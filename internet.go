@@ -9,7 +9,7 @@ import (
 	"github.com/go-faker/faker/v4/pkg/options"
 )
 
-var tld = []string{"com", "biz", "info", "net", "org", "ru", "edu"}
+var tld = []string{"com", "biz", "info", "net", "org", "ru", "edu", "top"}
 var urlFormats = []string{
 	"http://www.%s/",
 	"https://www.%s/",
